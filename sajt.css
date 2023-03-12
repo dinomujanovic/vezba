@@ -131,24 +131,38 @@ header {
 }
 .header-links p:nth-of-type(2):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links p:nth-of-type(3):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links p:nth-of-type(4):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links p:nth-of-type(5):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links p:nth-of-type(6):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links p:nth-of-type(7):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links p:nth-of-type(8):hover {
   cursor: pointer;
+  color: #fff;
+  transition: 0.2s;
 }
 .header-links i {
   margin-left: -25px;
